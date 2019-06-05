@@ -352,3 +352,13 @@ body {
     background-color: hsl(257, 40%, 49%);
     color: #fff;
 }
+
+.tagline {
+    font-family: 'Poppins', sans-serif;
+    /* font-weight: bold; */
+}
+
+button,
+.description {
+    font-family: 'Open Sans', sans-serif;
+}
